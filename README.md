@@ -10,7 +10,7 @@ This is the dice number menu. There are options for one, two and three dice.
 \
 ![](https://github.com/Isra-a/Dice-Roller/blob/main/menu.PNG)
 \
-\
+
 
  
 One Dice
